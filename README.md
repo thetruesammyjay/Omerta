@@ -1,4 +1,4 @@
-```markdown
+
 # Omerta
 
 **Omerta** is a live chat and customer service tool designed to help businesses communicate with their customers in real-time. It provides a platform for businesses to offer instant support, engage with customers, and analyze customer interactions to improve service quality.
