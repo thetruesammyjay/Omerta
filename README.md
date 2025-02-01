@@ -7,7 +7,7 @@
 
 ## **Features**
 
-### **Frontend (React)
+### **Frontend (React)**
 - **Real-Time Chat**: Engage in live chat with customers using WebSockets.
 - **Analytics Dashboard**: View chat metrics and user activity.
 - **User Authentication**: Login, logout, and user registration.
